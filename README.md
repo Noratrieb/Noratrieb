@@ -2,8 +2,7 @@
 
 I'm Nilstrieb, I live in Switzerland and I like to code some stuff.
 
-There's not much to see here, but you might be interested in my [UMLetClassParser](https://github.com/Nilstrieb/UMLetClassParser)  
-Or my amazing [Calculator](https://github.com/Nilstrieb/BasicConsoleCalculator) (its actually good (not really))
+I have lots of repos, some are cool and most are not finished and abandoned.
 
 ☜(ﾟヮﾟ☜)
 
