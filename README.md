@@ -8,5 +8,5 @@ I have lots of repos, some are cool and most are not finished and abandoned.
 
 ## 🧰 Languages and Tools
 Java is the language I know the best and have used the most. I'm currently learning Rust.  
-![Ferris](https://rustacean.net/assets/rustacean-flat-happy.svg)
+![Ferris](https://namespace.media/img/images/2021/04/07/msedge_VH2SEuB6dC.png)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight)
