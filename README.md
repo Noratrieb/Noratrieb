@@ -11,24 +11,17 @@ I have lots of repos, some are cool and most are not finished and abandoned.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight)
 ### My languages
-I'd say I know these pretty well
+Languages I know (at least a bit)
 * Java
 * Javascript
 * Typescript
-
-I know the basics and can do simple things with
 * Rust
 * HTML
 * CSS
-  
-I'm still very new to
 * Haskell
   
-I have once tried out but forgot most of
-* Kotlin
-* Python  
   
-I'm currently learning Rust and Haskell.
+I'm currently learning Rust, great language.
 
 
 
