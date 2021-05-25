@@ -27,6 +27,9 @@ I'm currently learning Rust, great language.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nilstrieb&label=Profile%20views&color=000000&style=flat)
 
+![troyphies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+
+
 ***
 Profile README contributors:  
 [Nilstrieb](https://github.com/Nilstrieb)  
