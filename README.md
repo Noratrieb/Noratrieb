@@ -15,6 +15,7 @@ Languages I know (at least a bit)
 * Java
 * Javascript
 * Typescript
+* GRSBPL
 * Rust
 * HTML
 * CSS
