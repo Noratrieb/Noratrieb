@@ -22,7 +22,8 @@ Languages I know (at least a bit)
 * Haskell
   
   
-I'm currently learning Rust, great language.
+I'm currently learning Rust
+Looking forward to learning Idris 👀👀👀
 
 
 
