@@ -22,7 +22,7 @@ Languages I know (at least a bit)
 * Haskell
   
   
-I'm currently learning Rust
+I'm currently learning Rust  
 Looking forward to learning Idris 👀👀👀
 
 
