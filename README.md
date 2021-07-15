@@ -20,10 +20,9 @@ Languages I know (at least a bit)
 * HTML
 * CSS
 * Haskell
+* Idris
   
-  
-I'm currently learning Rust  
-Looking forward to learning Idris 👀👀👀
+I'm currently learning Rust and Idris
 
 
 
