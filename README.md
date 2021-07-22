@@ -1,6 +1,6 @@
 # hi 👋
 
-I'm Nilstrieb, I live in Switzerland and I like to code some stuff.
+I'm Nilstrieb, I live in Switzerland and I love programming languages
 
 I have lots of repos, some are cool and most are not finished and abandoned.
 
