@@ -22,7 +22,7 @@ Languages I know (at least a bit)
 * Haskell
 * Idris
   
-I'm currently learning Rust and Idris
+I'm currently learning Idris
 
 
 
