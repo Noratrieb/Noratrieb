@@ -11,10 +11,10 @@ I have lots of repos, some are cool and most are not finished and abandoned.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight&langs_count=20)
 ### My languages
-Best Languages
 * Java
 * Rust
 * (Java|Type)script
+* some more
 
 I'm currently learning Idris
 
