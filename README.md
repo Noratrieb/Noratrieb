@@ -11,19 +11,12 @@ I have lots of repos, some are cool and most are not finished and abandoned.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight&langs_count=20)
 ### My languages
-Languages I know (at least a bit)
+Best Languages
 * Java
-* Javascript
-* Typescript
-* GRSBPL
 * Rust
-* HTML
-* CSS
-* Haskell
-* Idris
-  
-I'm currently learning Idris
+* (Java|Type)script
 
+I'm currently learning Idris
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nilstrieb&label=Profile%20views&color=000000&style=flat)
