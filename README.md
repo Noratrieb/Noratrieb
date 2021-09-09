@@ -11,11 +11,6 @@ I have lots of repos, some are cool and most are not finished and abandoned.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight&langs_count=20)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nilstrieb&label=Profile%20views&color=000000&style=flat)
-
-![troyphies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
-
-
 ***
 Profile README contributors:  
 [Nilstrieb](https://github.com/Nilstrieb)  
