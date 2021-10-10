@@ -2,8 +2,6 @@
 
 I'm Nilstrieb, I live in Switzerland and I love programming languages
 
-I have lots of repos, some are cool and most are not finished and abandoned.
-
 ☜(ﾟヮﾟ☜)
 
 ![Tablecord](https://namespace.media/img/images/2021/04/07/msedge_VH2SEuB6dC.png)
