@@ -1,6 +1,6 @@
 # hi 👋
 
-I'm Nilstrieb, I live in Switzerland and I love programming languages
+I'm Nilstrieb, I live in Switzerland and I love programming languages (especially Rust ♥)
 
 ☜(ﾟヮﾟ☜)
 
