@@ -2,6 +2,8 @@
 
 I'm Nilstrieb, I live in Switzerland and I love programming languages (especially Rust ♥)
 
+I sometimes contribute to the Rust compiler
+
 ☜(ﾟヮﾟ☜)
 
 ![Tablecord](https://namespace.media/img/images/2021/04/07/msedge_VH2SEuB6dC.png)
