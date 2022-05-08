@@ -9,6 +9,8 @@ I sometimes contribute to Rust
 ![Most used languages (Rust, Java, Typescript)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight&langs_count=5)
 
 ***
+I accept PRs to improve my profile readme!
+
 Profile README contributors:  
 [Nilstrieb](https://github.com/Nilstrieb)  
 [ConnysCode](https://github.com/ConnysCode)  
