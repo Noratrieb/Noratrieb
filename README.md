@@ -6,7 +6,7 @@ has way too many projects and sometimes contributes to Rust and its ecosystem as
 
 maintainer of https://github.com/conradludgate/linked_list_rs
 
-![Most used languages (Mostly Rust, some Typescript, some Java)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight&langs_count=5)
+![Most used languages (Mostly Rust, some Typescript, some Java)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilstrieb&theme=tokyonight&langs_count=50&layout=compact)
 
 ***
 I accept PRs to improve my profile readme!
