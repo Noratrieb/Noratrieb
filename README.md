@@ -15,3 +15,4 @@ Profile README contributors:
 
 [ConnysCode](https://github.com/ConnysCode)  
 [Corsin](https://github.com/C0RR1T)
+[ciso](https://github.com/creatorsiso)
