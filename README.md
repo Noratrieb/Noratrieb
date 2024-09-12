@@ -1,4 +1,4 @@
-🦀nils🦀
+🦀nora🦀
 
 has way too many projects and sometimes contributes to Rust and its ecosystem as a member of the compiler contributors team
 
